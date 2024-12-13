@@ -83,5 +83,5 @@ Os dados foram tratados e analisados usando métodos estatísticos e técnicas d
 
 Projeto realizado por:
 
-- `*Arthur Pompeu dos Santos Rocha*`
-- `*Alexandre Barros de Araújo*`
+- `Arthur Pompeu dos Santos Rocha`
+- `Alexandre Barros de Araújo`
